@@ -1,0 +1,70 @@
+colors
+red indicate a critical problem that needs to be resolved immediately
+yellow indicates that the driver should keep an eye on the system
+green means that there is a feature is active
+
+
+battery: indicates that the battery is either low on power or is not charging
+solution; check the connection to the battery terminal, if it was fine visit your nearest mechanic to inspect the alternator
+
+engine cooling: the engine temperature has exceeded the running limit temps
+solution: let the engine cool down and then inspect and top up the coolant levels
+
+power steering: the power steering module is malfunctioning, and driving without some fluid is hazardous
+solution: check the power steering fluid levels in the engine compartment
+
+oil light (red): oil pressure levels are low 
+solution: check and top up the right oil type in the right amount, if the issue persists then its the oil pump
+
+oil light (yellow): oil level is low 
+solution: replace the right oil type in the right amount
+
+brake: handbrake is on
+solution: release the handbrake in the way relevent to your vehicle
+
+airbag: airbag system is malfunctioning 
+solution: visit your nearest car electrician to inspect
+
+engine: engine is not running in the intended way
+solution: it is hazardous to drive the car for long, visit your nearest mechanic for professional inspection
+
+fuel: fuel levels are low
+solution: visit your nearest gas station to refuel
+
+flat tire: one or more tires are not on their reccomended level
+solution: air up the tires to their correct levels (even spare), if the issue persists then one of the tire sensors is not working
+
+washer fluid: washer fluid level is low
+solution: top up with distilled water or proper solution
+
+esc: traction control system is off
+solution: press the button inside the car
+
+abs: abs is malfunctioning, which affects braking
+solution: get your car towed to the nearest mechanic
+
+car door, trunk, engine: a door is open or is not closed securely.
+solution: check and close all doors properly
+
+suspension: suspension is shot and driving wont be smooth
+solution: visit the nearest mechanic to replace the broken shock/airbag suspension
+
+key: key is not detected
+solution: make sure the key is inside the ignition or if it was a fob be sure that its battery is working
+--------------
+green
+--------------
+adaptive cruise: adaptive cruise control allows your car to slow down if you were following closely a vehicle in front
+
+cruise: cruise control allows vehicle to maintain speed without the press of the gas pedal
+
+lane assist: a system that either warns the driver when swirving off-lane or mildly returns the car to the driven lane
+
+brake press: autohold feature keeps the car stopped at the stop light without the need to press the brakes
+
+fog lights: fog lights to be exclusively used in foggy conditions
+
+low beams: lights that are operated during night time
+
+high beams: lights that are operated in dark roads when no vehicle is in sight of the beam
+

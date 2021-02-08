@@ -1,0 +1,32 @@
+how to use: 
+
+1- open app 
+2- a message shows for 2 seconds asking user to point device at a light
+3- user shows warning light
+4- light icon triggers hyperlink
+5- user is taken to a page with potential problems and their solutions
+6- a hyperlink is setup for google maps and google search for the specific problem
+
+// 7- user has the option to roll back to previous pages
+
+
+
+unity code for hyperlinks:-
+
+using UnityEngine;
+using System.Collections;
+
+public class ExampleClass : MonoBehaviour
+{
+    void Start()
+    {
+        Application.OpenURL("https://www.youtube.com/results?search_query=sample1");
+// or https://www.google.com/maps/search/sample2
+// or https://www.google.com/search?q=sample3
+    }
+}
+
+app will use sounds
+app will have an icon legend
+
+
